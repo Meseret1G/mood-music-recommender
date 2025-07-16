@@ -88,5 +88,5 @@ You can increase the number of recommendations by modifying the limit parameter 
 License
 MIT License © 2025 Meseret Ghebiresilassie
 
-Feel free to reach out on [LinkedIn](www.linkedin.com/in/meseretghebiresilassie)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/meseretghebiresilassie)
 Or open an issue here on GitHub.
