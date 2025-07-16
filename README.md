@@ -80,7 +80,7 @@ example response
 Notes
 This app uses the Spotify Client Credentials Flow and does NOT access user-specific data.
 
-Make sure your network allows outgoing requests to Spotify's API.
+Make sure your network allows outgoing requests to Spotify'/s API.
 
 You can increase the number of recommendations by modifying the limit parameter in the code.
 
